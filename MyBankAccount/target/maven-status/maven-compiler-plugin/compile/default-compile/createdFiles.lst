@@ -1,0 +1,17 @@
+com\financial\bank\acount\management\server\adapter\SpringDataAccountRepository.class
+com\financial\bank\acount\management\Application.class
+com\financial\bank\acount\management\domain\model\Account.class
+com\financial\bank\acount\management\server\adapter\SpringDataAccountRepository$2.class
+com\financial\bank\acount\management\server\adapter\AccountRepository.class
+com\financial\bank\acount\management\domain\port\client\AccountStatement.class
+com\financial\bank\acount\management\server\adapter\SpringDataAccountRepository$1.class
+com\financial\bank\acount\management\domain\service\AccountService.class
+com\financial\bank\acount\management\client\adapter\AccountController.class
+com\financial\bank\acount\management\domain\port\client\Withdrawal.class
+com\financial\bank\acount\management\domain\port\server\SaveAccount.class
+com\financial\bank\acount\management\domain\model\Statement.class
+com\financial\bank\acount\management\domain\model\TransactionTypeEnum.class
+com\financial\bank\acount\management\domain\port\server\StatementTransaction.class
+com\financial\bank\acount\management\domain\port\server\RetrieveAccount.class
+com\financial\bank\acount\management\configuration\BeanConfiguration.class
+com\financial\bank\acount\management\domain\port\client\Deposit.class

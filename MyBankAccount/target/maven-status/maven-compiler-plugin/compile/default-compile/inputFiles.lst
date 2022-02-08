@@ -1,0 +1,15 @@
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\server\adapter\AccountRepository.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\client\adapter\AccountController.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\server\RetrieveAccount.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\Application.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\service\AccountService.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\configuration\BeanConfiguration.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\model\Statement.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\client\Deposit.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\client\AccountStatement.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\model\Account.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\client\Withdrawal.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\server\adapter\SpringDataAccountRepository.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\server\StatementTransaction.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\model\TransactionTypeEnum.java
+C:\dev tools\bank-account-kata\MyBankAccount\src\main\java\com\financial\bank\acount\management\domain\port\server\SaveAccount.java
