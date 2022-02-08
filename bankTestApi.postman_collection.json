@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "70c09d80-5fed-4146-826a-b17295fff055",
+		"name": "bankservice",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "deposit",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/account/0500013M026/deposit/200",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"account",
+						"0500013M026",
+						"deposit",
+						"200"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "withdraw",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/account/0500013M026/withdraw/100",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"account",
+						"0500013M026",
+						"withdraw",
+						"100"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "statement",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/account/0500013M026",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"account",
+						"0500013M026"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
